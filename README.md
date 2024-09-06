@@ -1,4 +1,4 @@
-# STM32 Dice Simulator
+# STM32 LED Dice Simulator
 
 This project simulates a dice roll using an STM32 microcontroller. When a button is pressed, a random dice value (between 1 and 6) is generated, and the result is displayed using LEDs connected to the GPIO pins of the microcontroller.
 
