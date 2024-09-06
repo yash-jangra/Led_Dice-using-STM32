@@ -29,7 +29,9 @@ This project demonstrates the use of an STM32 microcontroller to simulate a dice
 ## Pin Configuration
 - **PA0**: Push button (configured as external interrupt)
 - **PA1-PA7**: LEDs (configured as output)
+  
 ![image](https://github.com/user-attachments/assets/76a67704-1c11-41f3-926c-5c0a9afdcd12)
+
 Refer this while setting up your external LEDs on Breadboard
 
 ## Project Setup
